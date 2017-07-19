@@ -1,0 +1,1 @@
+A web scraper which scrapes news through python & beautifulsoup.
